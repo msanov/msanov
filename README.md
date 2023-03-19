@@ -1,5 +1,5 @@
 <div>
-    <h2 align="center">Welcome to my profile! 👋</h2>
+    <h2 align="center">Hi everyone! 👋</h2>
     Welcome to my GitHub profile! I'm glad you stopped by. Feel free to take a look around and explore my projects. If you have any questions or  feedback, please don't hesitate to reach out. Thank you for visiting!
   </div>
 
@@ -7,7 +7,7 @@
     <h2 align="center">About Me</h2>
    <ul>
     <li>:man_technologist: <strong>Who am I?:</strong> I am Data Scientist at IIC (Instituto de Ingeniería del Conocimiento).</li>
-    <li>:mailbox: <strong>How to reach me:</strong> <a href="https://https://www.linkedin.com/in/miguelsancheznovo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="linkedin"/>
+    <li>:mailbox: <strong>How to reach me:</strong> <a href="https://www.linkedin.com/in/miguelsancheznovo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="linkedin"/>
     <li>:books: <strong>Studies:</strong> I'm a strange psychologist whostudied a MSc in Data Science and Big Data.
     <li>:bulb: <strong>Fields of experience:</strong> My main fields of expertise are Computer Vision specialist in object detection and segmentation. I also have experience in time series, NLP and classic machine learningc.
   </ul>
