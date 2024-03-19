@@ -6,7 +6,7 @@
 <div>
     <h2 align="center">About Me</h2>
    <ul>
-    <li>:man_technologist: <strong>Who am I?:</strong> I am a Data Scientist at IIC (Instituto de Ingeniería del Conocimiento).</li>
+    <li>:man_technologist: <strong>Who am I?:</strong> I am a AI Project Manager in Psicosoft.</li>
     <li>:mailbox: <strong>How to reach me:</strong> <a href="https://www.linkedin.com/in/miguelsancheznovo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="linkedin"/>
     <li>:books: <strong>Studies:</strong> I'm an enthusiastic psychologist who studied a MSc in Data Science and Big Data.
     <li>:bulb: <strong>Fields of experience:</strong> My main field of expertise is Computer Vision. I'm an expert in object detection and segmentation. I also have experience in time series, NLP and classic machine learning.
